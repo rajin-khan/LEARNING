@@ -12,19 +12,9 @@
 
 </div>
 
-## 🎯 What is This?
+## What is This?
 
 The **LEARNING** folder contains structured, comprehensive learning guides for technologies, tools, and frameworks. Each guide follows a consistent format designed to take you from zero to proficiency with:
-
-- ✅ **Quickstart guides** - Get running in 5 minutes
-- ✅ **Fundamentals** - Essential background knowledge
-- ✅ **Core concepts** - Deep dives into key topics
-- ✅ **Practical tutorials** - Real-world examples
-- ✅ **Troubleshooting** - Common problems and solutions
-- ✅ **Tips & tricks** - Productivity shortcuts
-- ✅ **Advanced topics** - Power user features
-- ✅ **Resources** - Curated links and references
-- ✅ **Cheat sheets** - Quick reference guides
 
 ---
 
@@ -84,7 +74,7 @@ graph TD
 
 ---
 
-## 🚀 How to Use These Guides
+## How to Use These Guides
 
 ### For Beginners
 
@@ -125,24 +115,6 @@ flowchart LR
 
 ---
 
-## 📚 Current Guides
-
-### 🔄 n8n - Workflow Automation
-
-**Complete guide to n8n workflow automation platform**
-
-- **What you'll learn**: Build automated workflows, connect 350+ apps, create AI agents
-- **Difficulty**: Beginner to Advanced
-- **Time to proficiency**: 4-6 hours
-- **Prerequisites**: Basic JSON/API knowledge helpful but not required
-
-**Quick Links:**
-- [📖 Full Guide](./n8n/00-README.md)
-- [⚡ Quickstart](./n8n/01-quickstart.md)
-- [📋 Cheat Sheet](./n8n/09-cheatsheet.md)
-
----
-
 ## 🎓 Learning Philosophy
 
 These guides are designed with these principles:
@@ -173,75 +145,14 @@ These guides are designed with these principles:
 
 ---
 
-## 🔮 Upcoming Guides
-
-Guides planned for future addition:
-
-| Topic | Status | ETA |
-|:------|:------:|:---:|
-| **React** | Planning | TBD |
-| **TypeScript** | Planning | TBD |
-| **Docker** | Planning | TBD |
-| **Kubernetes** | Planning | TBD |
-| **FastAPI** | Planning | TBD |
-| **PostgreSQL** | Planning | TBD |
-
-> [!TIP]
-> **Suggest a guide**: Have a technology you'd like to see a comprehensive guide for? The guides are created using a structured approach that can be applied to any technology.
-
----
-
-## 📊 Guide Statistics
-
-<div align="center">
-
-| Metric | Count |
-|:-------|:-----:|
-| **Total Guides** | 1 |
-| **Total Pages** | 10 |
-| **Total Words** | ~15,000+ |
-| **Code Examples** | 50+ |
-| **Diagrams** | 10+ |
-| **Troubleshooting Solutions** | 15+ |
-
-</div>
-
----
-
-## 🛠️ Guide Format Standards
-
-All guides follow consistent formatting:
-
-### Visual Elements
-- **Mermaid diagrams** for architecture and flows
-- **Tables** for quick reference and comparisons
-- **Code blocks** with syntax highlighting
-- **Markdown callouts** (NOTE, TIP, WARNING, IMPORTANT)
-
-### Content Structure
-- Clear headings hierarchy
-- Progressive complexity
-- Practical examples
-- Links between related sections
-- Current date timestamps
-
-### Quality Standards
-- Beginner-friendly explanations
-- Real-world use cases
-- Troubleshooting included
-- Resources curated
-- Cheat sheets provided
-
----
-
 ## 📝 Contributing
 
 These guides are maintained and updated regularly. Each guide includes:
 
-- ✅ Current information (checked January 2026)
-- ✅ Multiple authoritative sources
-- ✅ Community best practices
-- ✅ Latest features and updates
+- Current information (checked January 2026)
+- Multiple authoritative sources
+- Community best practices
+- Latest features and updates
 
 ---
 
@@ -272,4 +183,3 @@ These guides are maintained and updated regularly. Each guide includes:
 *Building comprehensive guides, one technology at a time.*
 
 </div>
-
